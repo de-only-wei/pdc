@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Mr. Tan Chau",
+    "position": "Managing Director & Founder",
+    "email": "Available for consultation",
+    "bio": "Mr. Tan Chau is the visionary founder and Managing Director of Prosper Dynamics Construction Sdn Bhd. With over 25 years of extensive experience in the construction industry, he has established himself as a respected leader known for his technical expertise, strategic thinking, and unwavering commitment to quality.",
+    "fullBio": "Under his leadership, the company has successfully completed numerous high-profile residential and commercial projects across Malaysia. Mr. Tan's hands-on approach and dedication to excellence have earned the company a reputation for reliability and superior craftsmanship.\n\nHis expertise spans project planning, construction management, quality control, and client relations. Mr. Tan believes in fostering long-term relationships with clients, architects, and consultants, ensuring that every project is executed with precision and professionalism.",
+    "quote": "Building is not just about structures; it's about creating spaces where dreams come to life and memories are made.",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "James Lim",
+    "position": "Senior Architect",
+    "email": "",
+    "bio": "With 15 years of architectural experience, James leads our design team in creating innovative, functional, and aesthetically pleasing structures. His expertise in modern sustainable design has been instrumental in our award-winning projects.",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Michelle Wong",
+    "position": "Senior Project Manager",
+    "email": "",
+    "bio": "Michelle brings 12 years of project management expertise, ensuring every project is delivered on time and within budget. Her meticulous planning and coordination skills have made her invaluable to our operations.",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Rajesh Kumar",
+    "position": "Lead Site Engineer",
+    "email": "",
+    "bio": "Rajesh oversees on-site operations with 18 years of hands-on construction experience. His technical knowledge and problem-solving abilities ensure smooth execution and quality control at every construction phase.",
+    "image": "",
+    "featured": true
+  }
+]
+
+

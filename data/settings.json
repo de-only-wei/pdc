@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name": "Prosper Dynamics Construction Sdn. Bhd.",
+    "tagline": "Building Your Vision with Excellence and Integrity",
+    "description": "Professional construction company specializing in bungalow construction, project management, and design-build services in Shah Alam, Selangor.",
+    "established": "1998"
+  },
+  "contact": {
+    "address": "32, Jalan Anggerik Vanilla W31/W, Kota Kemuning, Seksyen 31, Shah Alam, Selangor, 40460",
+    "phone": "012-783 2131",
+    "phoneName": "Ivan",
+    "office": "03-5122 8792 / 8793",
+    "fax": "03-5122 8754",
+    "email": "sbtc600@yahoo.com",
+    "emailAlt": "pdcsb600@gmail.com"
+  },
+  "businessHours": {
+    "weekdays": "9:00 AM - 6:00 PM",
+    "saturday": "9:00 AM - 1:00 PM",
+    "sunday": "Closed"
+  },
+  "social": {
+    "facebook": "#",
+    "instagram": "#",
+    "linkedin": "#"
+  },
+  "stats": {
+    "yearsExperience": "25+",
+    "projectsCompleted": "200+",
+    "clientSatisfaction": "100%",
+    "expertTeam": "50+"
+  }
+}
+
+

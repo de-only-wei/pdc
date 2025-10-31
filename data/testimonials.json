@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "title": "Homeowner, Kota Kemuning",
+    "content": "Prosper Dynamic Construction delivered exceptional quality on our residential project. Their attention to detail and professional approach made the entire process smooth and stress-free.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Arjun Patel",
+    "title": "Principal Architect, Modern Space Design",
+    "content": "As an architect, I've worked with many contractors, but PDC stands out for their commitment to bringing designs to life exactly as envisioned. Highly recommended.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "David Lim",
+    "title": "Property Developer, Shah Alam",
+    "content": "The team at PDC managed our complex renovation project with professionalism and expertise. They completed everything on schedule and exceeded our expectations.",
+    "rating": 5
+  }
+]
+
+

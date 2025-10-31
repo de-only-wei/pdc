@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "meow",
+    "location": "meow",
+    "category": "current",
+    "architect": "meow",
+    "value": "RM 2.8 meow",
+    "completion": "meow meow",
+    "image": "https://plus.unsplash.com/premium_photo-1686820608699-df6968b6f7d9?q=80&w=2912&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "meow",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Serenity Gardens Residence",
+    "location": "Bukit Jelutong, Shah Alam",
+    "category": "current",
+    "architect": "Tropical Design Studio",
+    "value": "RM 3.2M",
+    "completion": "March 2025",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070",
+    "description": "Luxurious tropical-modern bungalow with expansive gardens, water features, and premium interior finishes.",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Urban Oasis Bungalow",
+    "location": "Setia Alam, Selangor",
+    "category": "current",
+    "architect": "Modern Living Architects",
+    "value": "RM 2.5M",
+    "completion": "January 2025",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2075",
+    "description": "Contemporary design with smart home integration, minimalist aesthetics, and eco-friendly construction materials.",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Heritage Manor",
+    "location": "Damansara Heights, KL",
+    "category": "previous",
+    "architect": "Classic Design Associates",
+    "value": "RM 4.5M",
+    "completion": "Completed June 2023",
+    "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?q=80&w=2084",
+    "description": "Elegant colonial-style bungalow renovation with modern amenities while preserving historical architectural elements.",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Skyline Residence",
+    "location": "Mont Kiara, KL",
+    "category": "previous",
+    "architect": "Urban Space Design",
+    "value": "RM 5.2M",
+    "completion": "Completed September 2022",
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=2071",
+    "description": "Ultra-modern luxury bungalow with panoramic city views, infinity pool, and state-of-the-art home automation.",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Riverside Sanctuary",
+    "location": "Ara Damansara, Selangor",
+    "category": "previous",
+    "architect": "Nature First Architects",
+    "value": "RM 3.8M",
+    "completion": "Completed March 2023",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2053",
+    "description": "Tranquil bungalow design incorporating natural elements, landscaped gardens, and sustainable energy solutions.",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "The Executive Suite",
+    "location": "Subang Jaya, Selangor",
+    "category": "previous",
+    "architect": "Elite Design Studio",
+    "value": "RM 2.9M",
+    "completion": "Completed November 2022",
+    "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=2087",
+    "description": "Professional home office integration with luxury living spaces, perfect for modern executives.",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Green Valley Estate",
+    "location": "Cyberjaya, Selangor",
+    "category": "previous",
+    "architect": "Eco Build Architects",
+    "value": "RM 3.5M",
+    "completion": "Completed August 2023",
+    "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=2070",
+    "description": "Environmentally conscious design with solar panels, rainwater harvesting, and energy-efficient systems.",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Peninsula Parkview",
+    "location": "Bangsar, KL",
+    "category": "previous",
+    "architect": "Metropolitan Designs",
+    "value": "RM 6.1M",
+    "completion": "Completed January 2023",
+    "image": "https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?q=80&w=2070",
+    "description": "Premium bungalow with park-facing views, luxury amenities, and bespoke interior craftsmanship.",
+    "featured": false
+  },
+  {
+    "title": "spiders",
+    "location": "spiders",
+    "category": "previous",
+    "architect": "spider",
+    "value": "spiderndasd",
+    "completion": "boo boo",
+    "image": "https://static.wikia.nocookie.net/silly-cat/images/b/b8/War_of_the_Silly_and_Unsilly.jpg/revision/latest?cb=20240310230516",
+    "description": "afsad",
+    "featured": false,
+    "id": 10
+  }
+]
